@@ -1,0 +1,36 @@
+{
+  "name": "raycast-extension-collection",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "npm@10.9.7",
+  "description": "Raycast extension collectioni",
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://www.raycast.com/tofrankie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tofrankie/raycast-extension-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tofrankie/raycast-extension-collection/issues"
+  },
+  "scripts": {
+    "lint": "run-s lint:eslint lint:pkgs:fix lint:prettier",
+    "lint:eslint": "eslint --config ./eslint.config.js '**/package.json' --cache --fix",
+    "lint:pkgs": "npm run lint --workspaces --if-present",
+    "lint:pkgs:fix": "npm run fix-lint --workspaces --if-present",
+    "lint:prettier": "prettier . --cache --write"
+  },
+  "devDependencies": {
+    "@fission-ai/openspec": "^1.6.0",
+    "@tofrankie/eslint": "^0.5.0",
+    "eslint": "^10.8.0",
+    "npm-run-all2": "^9.0.2",
+    "prettier": "^3.9.6",
+    "typescript": "^5.9.3"
+  },
+  "workspaces": [
+    "./extensions/*"
+  ]
+}

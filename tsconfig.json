@@ -1,0 +1,4 @@
+{
+  "references": [{ "path": "./extensions/wechat-devtool/tsconfig.json" }],
+  "files": []
+}

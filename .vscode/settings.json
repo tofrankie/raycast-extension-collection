@@ -1,0 +1,6 @@
+{
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  },
+  "js/ts.tsdk.path": "node_modules/typescript/lib"
+}
