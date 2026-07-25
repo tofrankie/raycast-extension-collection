@@ -16,6 +16,8 @@
     "url": "https://github.com/tofrankie/raycast-extension-collection/issues"
   },
   "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
     "lint": "run-s lint:eslint lint:pkgs:fix lint:prettier",
     "lint:eslint": "eslint --config ./eslint.config.js '**/package.json' --cache --fix",
     "lint:pkgs": "npm run lint --workspaces --if-present",

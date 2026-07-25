@@ -39,12 +39,11 @@
     "lint": "ray lint",
     "lint:eslint": "eslint . --fix",
     "publish": "ray publish",
-    "test": "vitest",
-    "test:run": "vitest run"
+    "test": "vitest run"
   },
   "dependencies": {
-    "@raycast/api": "^1.104.1",
-    "@raycast/utils": "^1.19.1",
+    "@raycast/api": "^1.104.23",
+    "@raycast/utils": "^2.2.7",
     "@tanstack/react-query": "~5.90.12",
     "dayjs": "^1.11.19",
     "ky": "^1.14.2"
