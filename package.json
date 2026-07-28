@@ -1,19 +1,19 @@
 {
-  "name": "raycast-extension-collection",
+  "name": "raycast-collection",
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "packageManager": "npm@10.9.7",
-  "description": "Raycast extension collectioni",
+  "description": "A personal collection of Raycast",
   "author": "Frankie <1426203851@qq.com>",
   "license": "MIT",
   "homepage": "https://www.raycast.com/tofrankie",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tofrankie/raycast-extension-collection.git"
+    "url": "git+https://github.com/tofrankie/raycast-collection.git"
   },
   "bugs": {
-    "url": "https://github.com/tofrankie/raycast-extension-collection/issues"
+    "url": "https://github.com/tofrankie/raycast-collection/issues"
   },
   "scripts": {
     "build": "npm run build --workspaces --if-present",

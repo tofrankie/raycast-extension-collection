@@ -1,6 +1,6 @@
 # Chinese Converter
 
-English | [中文](https://github.com/tofrankie/raycast-extension-collection/tree/main/extensions/chinese-converter/README.zh-CN.md)
+English | [中文](https://github.com/tofrankie/raycast-collection/tree/main/extensions/chinese-converter/README.zh-CN.md)
 
 Convert numbers into Chinese uppercase RMB text.
 

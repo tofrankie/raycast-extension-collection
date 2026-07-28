@@ -1,6 +1,6 @@
-# raycast-extension-collection
+# raycast-collection
 
-A personal collection of Raycast extensions.
+A personal collection of [Raycast](https://www.raycast.com/?via=73820f).
 
 ## Development
 
@@ -10,7 +10,7 @@ Official
 - [Raycast Developer Doc](https://developers.raycast.com/?via=73820f)
 - [Raycast Extensions Repository](https://github.com/raycast/extensions)
 
-Article
+Personal
 
 - [如何开发一个 Raycast 扩展？](https://github.com/tofrankie/blog/issues/364)
 - [当 Raycast extensions 仓库过大，如何更方便提交 PR？](https://github.com/tofrankie/blog/issues/391)

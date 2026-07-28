@@ -7,9 +7,9 @@
   "icon": "icon.png",
   "author": "tofrankie",
   "license": "MIT",
-  "homepage": "https://github.com/tofrankie/raycast-extension-collection/tree/main/extensions/chinese-converter",
+  "homepage": "https://github.com/tofrankie/raycast-collection/tree/main/extensions/chinese-converter",
   "bugs": {
-    "url": "https://github.com/tofrankie/raycast-extension-collection/issues",
+    "url": "https://github.com/tofrankie/raycast-collection/issues",
     "email": "1426203851@qq.com"
   },
   "categories": [

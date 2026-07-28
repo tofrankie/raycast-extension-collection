@@ -7,14 +7,14 @@
   "icon": "logo-atlassian.png",
   "author": "tofrankie",
   "license": "MIT",
-  "homepage": "https://github.com/tofrankie/raycast-extension-collection/tree/main/extensions/atlassian-data-center",
+  "homepage": "https://github.com/tofrankie/raycast-collection/tree/main/extensions/atlassian-data-center",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tofrankie/raycast-extension-collection.git",
+    "url": "git+https://github.com/tofrankie/raycast-collection.git",
     "directory": "extensions/atlassian-data-center"
   },
   "bugs": {
-    "url": "https://github.com/tofrankie/raycast-extension-collection/issues"
+    "url": "https://github.com/tofrankie/raycast-collection/issues"
   },
   "categories": [
     "Developer Tools",
